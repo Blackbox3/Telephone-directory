@@ -1,0 +1,8 @@
+package com.college.campaign.repository;
+
+import com.college.campaign.entities.model.FCMMessage;
+
+
+public interface FCMMessageRepository extends BaseRepository<FCMMessage> {
+
+}
